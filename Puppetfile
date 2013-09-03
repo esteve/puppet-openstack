@@ -1,6 +1,6 @@
 forge "http://forge.puppetlabs.com"
 
-mod 'puppetlabs/nova', :git => 'git://github.com/stackforge/puppet-nova'
+mod 'puppetlabs/nova', :git => 'git://github.com/esteve/puppet-nova'
 mod 'puppetlabs/glance', :git => 'git://github.com/stackforge/puppet-glance'
 mod 'puppetlabs/keystone', :git => 'git://github.com/stackforge/puppet-keystone'
 mod 'puppetlabs/horizon', :git => 'git://github.com/stackforge/puppet-horizon'
